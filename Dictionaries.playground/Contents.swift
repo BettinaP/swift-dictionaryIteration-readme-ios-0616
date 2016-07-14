@@ -58,7 +58,7 @@ let fastAndFuriousFilms = [
     "Fast Five",
     "Fast & Furious 6",
     "Furious 7",
-    "Fast 8"
+    "Fast 8."
 ]
 
 let movies = [
